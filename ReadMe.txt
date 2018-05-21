@@ -1,0 +1,3 @@
+The code of the following paper will come soon ...
+
+J. Jiang, Y. Yu, J. Hu, S. Tang, and J. Ma, ¡°Deep CNN Denoiser and Multi-layer Neighbor Component Embedding for Face Hallucination,¡± IJCAI 2018.
